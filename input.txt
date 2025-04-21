@@ -1,0 +1,4 @@
+This is the original content of input.txt
+Cat Dog River
+Deer Car Bear
+Dave is here
